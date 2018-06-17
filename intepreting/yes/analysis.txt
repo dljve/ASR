@@ -1,0 +1,53 @@
+We'll test:
+
+0132a06d_nohash_4.wav, yes, 0.999 <-- High accuracy
+0137b3f4_nohash_0.wav, yes, 0.990 <-- High accuracy
+01648c51_nohash_0.wav, yes, 0.971 <-- High accuracy
+
+yes 
+/jɛs/
+
+j: 
+F1 upwards transition to ɛ
+F2+ downwards transition to ɛ
+
+s has activation starting from about 3000 hz
+so only F3+ captures s (fricative)
+formant transition from ɛ to s is horizontal / slightly downwards
+
+
+--------------------------------------------
+2 filter model
+Uses F1 only. General hypothesis:
+- first filter roughly detects to (upward) formant transitions. Line shapes
+- second filter roughly detects vowels (atleast in range 400-800 Hz). Blob shapes
+--------------------------------------------
+0132a06d_nohash_4	male
+1: 	F1. From 400-500 ms the formant line goes upwards = j to ɛ transition (mostly j sound).
+	600-700 ms detects a slight downwards movement = ɛ to s transition
+	1. Possibly detects upward movement in F1
+	2. Detects formant transitions in general
+2:	F1. activates from 500-650, mostly capturing (j)ɛ, but not the first upward movement
+	Seems to be activated over a horizontal and high energy formant line
+
+0137b3f4_nohash_0	male
+1:	F1 (up to 800 Hz). First activation line corresponds to j sound, second line to j-ɛ transition.
+	Some activity between 400-500 ms, could refer to ɛ to s transition again, but very vaguely
+	1. Both capture upward movements in F1, again
+	2. Only captures the last transition vaguely
+2:	F1 + F2 subtly. activates from 350-500 ms, capturing jɛs, again not first upward movement
+	Again activates over the horizontal part of F1.
+	1. The highly activated parts correspond to ɛ in both cases, so this may be a vowel detector
+
+01648c51_nohash_0	female
+1:	F1 (and the shape of the spectrogram is slightly deactivated).
+	Again two activation lines, first line corresponds to j sound, second line to j-ɛ transition.
+	Small speck of activation on 600 ms, again vague hint to ɛ-s transition.
+	1. Again captures the upward movement in F1: silence-j and j-ɛ.
+	2. Again also captures the last transition but extremely vaguely
+2:	F1. Highly Activated between 500-650 ms, corresponds to the ɛ sound again.
+	1. More evidence that filter 2 detects ɛ, could be a vowel detector (between 400-800 hz = ɛ-a)
+
+--------------------------------------------
+4 filter model
+--------------------------------------------

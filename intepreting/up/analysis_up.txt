@@ -1,0 +1,212 @@
+Up: ˈʌp
+ʌ: f1 = 760hz, f2 = 1320hz
+p
+
+Note: clear silence between 'u' and 'p' in audio files.
+
+--------------------------------------------
+2 filter model
+--------------------------------------------
+857366dd_nohash_0.wav, up, 0.991 <-- High accuracy
+    Praat
+        Geslacht: male
+        Formanten 'a':
+            800-650hz (long time flat-ish), 2600-1100hz (I wonder if f2 starts later than f1, so that
+            it should be 1000-1100hz and that 2600hz is f3)
+        Klinkt als: ap?
+    Filters
+        1. Quite some vague small lines around 0.4s (silence), 0.5s (start 'u') and 0.7s (start 'p'). 
+            Strongest activation: line 0.4-0.5s 800-1000hz and blob 0.5-0.55s 900-1000hz.
+        2. Blob (sterk) 0.55-0.7s 600-1000hz (mid 'u' - mid 'p') + blob (zwak) 0.6-0.7s 200-600hz ('p')
+            + blob (zwak) 0.55-0.65s 2500-2900hz (transition 'u' - 'p') + dot 0.4s 700hz (silence).
+ 
+
+1890e5c3_nohash_1.wav, up, 0.927 <-- High accuracy
+    Praat
+        Geslacht: male
+        Formanten 'a':
+            800-850hz (bijna hele tijd recht), 2100-1450hz (op en neer, maar globaal dalend)
+        Klinkt als: up
+    Filters
+        1. Quite some vague small lines around 0.45s (silence) and 0.55s (start 'u').
+            Strongest activation: blob 0.45s 900-1000hz and line/dots 0.55s 700-1000hz.
+        2. Blob (sterk) 0.55-0.7s 700-1000hz ('u') + blob (zwak) 0.65-0.7s 500-700hz
+            + blob (zwak) 0.65s 2500-2700hz + blob (zwak) 0.45s 600-900hz.
+ 
+
+9aa21fa9_nohash_3.wav, up, 0.953 <-- High accuracy
+    Praat
+        Geslacht: male
+        Formanten 'a':
+            630-580hz (flat), 1150-1300hz (flat, laatste stukje omhoog)
+        Klinkt als: u - *silence* - p
+    Filters
+        1. Quite some vague small lines around 0.3s (silence before 'u'), 0.65 
+            (silence between 'u' and 'p') and 0.75s (start 'p').
+            Strongest activation: line 0.3s 700-900hz + blob 0.65s 200-400hz
+            and blob 0.7-0.75s 0-300hz.
+        2. Blob (redelijk sterk) 0.45-0.6s 600-900hz (mid 'u' - silence) + 
+            blob (zwak) 0.45-0.6s 0-600hz + blob (zwak) 0.5-0.6s 900-1300hz 
+            + line 0.3s 600-700hz (silence) + blob (zwak) 0.85-0.95s 0-2200hz
+            (transition 'p' - silence).
+ 
+
+--------------------------------------------
+4 filter model
+--------------------------------------------
+857366dd_nohash_0.wav, up, 0.991 <-- High accuracy
+    Praat
+        Geslacht: male
+        Formanten 'a':
+            800-650hz (long time flat-ish), 2600-1100hz (I wonder if f2 starts later than f1, so that
+            it should be 1000-1100hz and that 2600hz is f3)
+        Klinkt als: ap?
+    Filters
+        1. Blob 0.4-0.45s 800-1000hz (noise) + blob 0.55s 700hz (mid 'u')
+            + blob 0.6s 1000hz (u-p) + few vague blobs around 0.4s and 0.6s.
+        2. Negatieve omtrek activatie, met "silence" tussen 'u' and 'p'.
+        3. Footprint activatie (zwak) + blobs at 0.65s of 200hz, 500-700hz and 2600hz.
+        4. (Niet leeg!) very tiny dots with very little act around 0.01s (geen typefout)
+            at 700hz, 1250hz, 2900hz, 3650hz, 4500hz and 5800hz.
+
+
+4c841771_nohash_5.wav, up, 0.988 <-- High accuracy
+    Praat
+        Geslacht: female
+        Formanten 'a':
+            800-720hz, 1450-1500hz
+        Klinkt als: ap (soft p)
+    Filters
+        1. Blob 0.4-0.45s 900-1000hz (noise) + blob 0.4-0.45s 1600-1700hz (noise)
+            + dot 0.55s 950hz + dot 0.55s 1700hz.
+        2. Negatieve omtrek activatie
+        3. Footprint activatie (zwak) + blobs at 0.65-0.7s of 600-700hz and 1400-1600hz.
+        4. Leeg
+
+
+ab7b5acd_nohash_0.wav, up, 0.986 <-- High accuracy
+    Praat
+        Geslacht: male
+        Formanten 'a':
+            800-600hz (flat, end slight decrease), 1100-1320hz
+        Klinkt als: ap
+    Filters
+        1. Blob 0.6-0.7s 700-900hz
+        2. Negatieve omtrek activatie
+        3. Footprint activatie (heeeel zwak) + blob 0.9s 400-700hz ('p')
+        4. Leeg
+
+
+--------------------------------------------
+8 filter model
+--------------------------------------------
+857366dd_nohash_0.wav, up, 0.998 <-- High accuracy
+    Praat
+        Geslacht: male
+        Formanten 'a':
+            800-650hz (long time flat-ish), 2600-1100hz (I wonder if f2 starts later than f1, so that
+            it should be 1000-1100hz and that 2600hz is f3)
+        Klinkt als: ap?
+    Filters
+        1. Dot 0.05s 3600hz + dot 0.1s 50hz. (Both noise)
+        2. Negatieve omtrek activatie, met "silence" tussen 'u' and 'p'.
+        3. Blobs at 0.5-0.55s of 300-400hz, 800-1000hz and 2600-2800hz.
+        4. Two vague lines at 0.4s and 0.55s, of which most activation: 
+            Blob 0.4s 700hz (noise) and blobs 0.55s 600-1000hz. ('u')
+        5. Footprint activatie (zwak) + dots at 0.65s of 200hz, 600-800hz
+            and 2600hz.
+        6. Footprint activatie (zwak) + dot 0.5s 700hz + dot 0.5s 2500hz
+            + dot 0.7s 800-900hz.
+        7. Negatieve omtrek activatie, met "silence" tussen 'u' and 'p'.
+        8. Tiny dot 0.025s 2300hz + tiny dot 0.05s 50hz + few very vague 
+            dots along 0.025s line.
+
+
+1890e5c3_nohash_1.wav, up, 0.953 <-- High accuracy
+    Praat
+        Geslacht: male
+        Formanten 'a':
+            800-850hz (bijna hele tijd recht), 2100-1450hz (op en neer, maar globaal dalend)
+        Klinkt als: up
+    Filters
+        1. Leeg
+        2. Negatieve omtrek activatie
+        3. Blobs at 0.55s of 500hz (sterk), 1000hz (sterk), 2500-2800hz (zwak)
+            and 5000hz (zwak).
+        4. Blobs at 0.45s (noise) of 600-800hz (redelijk sterk), 2500hz (zwak) 
+            and 5000hz (zwak) + blob 0.6s 800-1100hz.
+        5. Footprint activatie (zwak) + dot 0.7s 700hz.
+        6. Footprint activatie (zwak) + blob 0.5s 600-700hz + dot 0.7s 1000hz.
+        7. Negatieve omtrek activatie
+        8. Leeg
+
+
+9aa21fa9_nohash_3.wav, up, 0.908 <-- High accuracy
+    Praat
+        Geslacht: male
+        Formanten 'a':
+            630-580hz (flat), 1150-1300hz (flat, laatste stukje omhoog)
+        Klinkt als: u - *silence* - p
+    Filters
+        1. Leeg
+        2. Negatieve omtrek activatie, , met kleine "silence" tussen 'u' and 'p'.
+        3. Blob (sterk) 0.7-0.8s 0-300hz (sil-p) + blob (zwak) 0.8s 600-700hz (p)
+            + blob (zwak) 0.8s 2100-2300hz.
+        4. Three vague lines at 0.3s (noise), 0.7s (noise) and 0.8s ('p'), of which most activation: 
+            Line 0.3s 500-700hz (noise) and blob 0.65-0.7s 0-200hz. (noise)
+        5. Footprint activatie (zwak) + blob 0.6s 0-700hz + dot 0.85s 50hz.
+        6. Footprint activatie (zwakker) + line 0.75s 0-200hz.
+        7. Negatieve omtrek activatie, met kleine "silence" tussen 'u' and 'p'.
+        8. Dot 0.75s 50hz.
+
+--------------------------------------------
+64 filter model
+--------------------------------------------
+857366dd_nohash_0.wav, up, 0.974 <-- High accuracy
+    Praat
+        Geslacht: male
+        Formanten 'a':
+            800-650hz (long time flat-ish), 2600-1100hz (I wonder if f2 starts later than f1, so that
+            it should be 1000-1100hz and that 2600hz is f3)
+        Klinkt als: ap?
+    Filters
+        17. Blob 0.4-0.65s 200-1200 Hz. Meeste act in 600-1000 Hz. Sil-u-p.
+        21. Blob 0.4-0.5s 500-800 Hz. sil-u.
+            Line 0.65s 700-1000 Hz. u-p.
+        27. Blob 0.4-0.55s 200-1200 Hz, meeste 700-1000 Hz. sil-u
+            Line 0.65 700-1000 Hz. u-p
+        38. Blob 0.4-0.55s 200-900 Hz, meeste 700-900 Hz. sil-u
+
+
+9aa21fa9_nohash_3.wav, up, 0.979 <-- High accuracy
+    Praat
+        Geslacht: male
+        Formanten 'a':
+            630-580hz (flat), 1150-1300hz (flat, laatste stukje omhoog)
+        Klinkt als: u - *silence* - p
+    Filters
+        17. Blob 0.3-0.55 0-1400 Hz, meeste 600-900 Hz. sil-u-sil(/p?)
+            Blob 0.7-0.85s 0-400 Hz meeste. sil-p-einde p
+        21. Blob 0.3-0.4s 600-800 Hz. sil-u.
+            Line 0.65-0.7s 0-200 Hz. Noise.
+            Dots 0.6s noise.
+        27. Blob 0.3-0.4s 0-1300 Hz, meeste 600-900 Hz. sil-u
+            Blob 0.7-0.8s 0-500 Hz meeste. u-p
+            Dot 0.85s 200 Hz. p 
+        38. Line 0.3-0.5s 600-700 Hz. sil-u
+            Blob 0.7-0.75s noise
+            Blob 0.8s 0-300 Hz. p 
+
+21832144_nohash_2.wav, up, 0.952 <-- High accuracy
+    Praat
+        Geslacht: female
+        Formanten 'a':
+            830-600hz (flat-ish, end decrease), 1430-1230hz (slow decrease)
+        Klinkt als: u - *silence* - p
+    Filters
+        17. Blob 0.5-0.7s 100-1600 Hz, meeste 800-1600 Hz. sil-u-p
+        21. Line 0.5-0.6s 800 Hz and 1400 Hz. sil-u.
+            Dots 0.75s noise. 
+        27. Blob 0.5-0.65s 100-1700 Hz, meeste 700-1000 Hz en 1400-1700 Hz. sil-u en u.
+            Line 0.75s noise.
+        38. Lines 0.5-0.65s sterksten 800-1000 Hz, 1200-1500 Hz. sil-u en u.

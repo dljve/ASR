@@ -1,0 +1,177 @@
+
+No
+
+    Phonetic transcription:
+        noʊ / nəʊ
+
+        n
+            zie plaatje
+
+        o
+            f1 = 500
+            f2 = 900
+
+        ʊ
+            f1 = 380
+            f2 = 940
+
+        ə
+            ?
+
+no, 2f, spectrogram
+    7846fd85_nohash_1.wav, no, 0.996, <-- high acc
+        Praat
+            geslacht: vrouw
+            formanten 'o':
+                750, 1600-1150 (aflopend)
+            klinkt als: no (o aflopend)
+        Filters
+            1. line 400hz 0.2-0.35s. line 900hz 0.25-0.45s
+            2. neerwaartse blob 1000-700hz 0.4-0.7s
+
+
+    e900b652_nohash_0.wav, no, 1.000, <-- high acc
+        Praat
+            geslacht: vrouw
+            formanten 'o':
+                850-600(aflopend), 1500-1100 (aflopend)
+            klinkt als: no (o aflopend)
+        Filters
+            1. puntjes 400hz,  0.6s. puntje 200hz 0.7s
+            2. blob 500-200hz 0.6-0.7s
+
+    ad63d93c_nohash_1.wav, no, 0.991 <-- High accuracy
+
+
+
+    56f8a100_nohash_0.wav, no, 0.994, <-- high acc
+        Praat
+            geslacht: vrouw
+            formanten 'o':
+                900, 1600-1150 (aflopend)
+            klinkt als: no (o aflopend)
+        Filters
+            1. puntjes 1000hz, 0.4 & 0.55s. Blob 2000hz 0.4 & 0.5s
+            2. neerwaartse blob 2000-1200hz 0.5-0.8s. blob 1000-800hz 0.6-0.75s
+
+
+
+no, 4f, spectrogram
+    7846fd85_nohash_1.wav, no, 0.972, <-- high acc
+        Praat
+            geslacht: vrouw
+            formanten 'o':
+                750, 1600-1150 (aflopend)
+            klinkt als: no (o aflopend)
+        Filters
+            1. blob 900hz 0.3s. blob 300-400hz 0.2s.
+            2. negatieve omtrek activatie (zwak)
+            3. footprint activatie (sterk) + line 1000hz 0.3s. + line 400hz 0.2s
+            4. Leeg
+
+    e900b652_nohash_0.wav, no, 0.993, <-- high acc
+        Praat
+            geslacht: vrouw
+            formanten 'o':
+                650, 1500-1100 (aflopend)
+            klinkt als: no (o aflopend)
+        Filters
+            1. blob 300-400hz 0.4-0.5s
+            2. negatieve omtrek activatie (zwak)
+            3. line 400hz 0.45s. dot 200hz 0.7s
+            4. Leeg
+
+
+    ad63d93c_nohash_1.wav, no, 0.964, <-- high acc
+        Praat
+            geslacht: man
+            formanten 'o':
+                350, 1000-800 (aflopend)
+            klinkt als: no (o aflopend)
+        Filters
+            1. blob 300-400hz 0.5-1.5s
+            2. negatieve omtrek activatie (zwak)
+            3. footprint activatie (sterk)
+            4. Leeg
+
+
+no, 8f, spectrogram
+    7846fd85_nohash_1.wav, no, 0.972, <-- high acc
+        Praat
+            geslacht: vrouw
+            formanten 'o':
+                750, 1300
+            klinkt als: no (o aflopend)
+        Filters
+            1. Leeg
+            2. negatieve omtrek activatie
+            3. blob 100-400ha, 0.25-0.35s. puntjes 800-900hz 0.35s
+            4. blob 200hz 0.2s. blob 700hz 0.3s.
+            5. footprint activatie (sterk) + blob 0.7s 650hz + dot 300hz 0.25s + dot 900hz 0.35s
+            6. footprint activatie (sterk) + blob 800hz 0.7s
+            7. negatieve omtrek activatie (zwak)
+            8. Leeg
+
+
+    e900b652_nohash_0.wav, no, 0.993, <-- high acc
+        Praat
+            geslacht: vrouw
+            formanten 'o':
+                650, 1300
+            klinkt als: no (o aflopend)
+        Filters
+            1. Leeg
+            2. negatieve omtrek activatie (zwak)
+            3. blob 300-400hz 0.5-0.65s opwaards.
+            4. blob 200hz 0.4-0.5s. neerwaardse lijnen 1200-1800hz 0.55-0.75s
+            5. Leeg
+            6. blob 400hz 0.7s
+            7. negatieve omtrek activatie (zwak)
+            8. Leeg
+
+    ad63d93c_nohash_1.wav, no, 0.964, <-- high acc
+        Praat
+            geslacht: man
+            formanten 'o':
+                350, 1000-800 (aflopend)
+            klinkt als: no (o aflopend)
+        Filters
+            1. Leeg
+            2. Negatieve omtrek activatie
+            3. dot 300hz 0.15s
+            4. blob 200hz 0.2-0.5s
+            5. footprint activatie + blob 300hz 0.5s (sterk)
+            6. footprint activatie + dots 1200hz 0.25s, 1300hz 0.4s. (sterk)
+            7. negatieve omtrek activatie (zwak)
+            8. Leeg
+
+
+
+no, 64f, spectrogram
+    7846fd85_nohash_1.wav, no, 0.990 <-- High accuracy
+
+
+    e900b652_nohash_0.wav, no, 1.000 <-- High accuracy
+
+    ad63d93c_nohash_1.wav, no, 0.999 <-- High accuracy
+
+    bab36420_nohash_0.wav, no, 0.961 <-- High accuracy
+        Praat
+            geslacht: man
+            formanten 'o':
+                550, 1100-1000 (aflopend)
+            klinkt als: no (o aflopend)
+
+    b49caed3_nohash_3.wav, no, 0.968 <-- High accuracy
+        Praat
+            geslacht: man
+            formanten 'o':
+                400, 1400-900 (aflopend)
+            klinkt als: nəʊ (o aflopend)
+
+    8d4cdc60_nohash_0.wav, no, 1.000 <-- High accuracy
+        Praat
+            geslacht: vrouw
+            formanten 'o':
+                650, 1600-1000 (aflopend)
+            klinkt als: no (o aflopend)

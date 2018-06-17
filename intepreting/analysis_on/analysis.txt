@@ -1,0 +1,225 @@
+
+
+On:
+
+    Phonetic transcription
+        ɑn / ɔn
+
+        ɑ
+            f1 = 740
+            f2 = 1180
+
+        ɔ
+            f1 = 500
+            f2 = 850
+
+        n
+            zie plaatje formant tussen 200-500hz
+
+
+negatieve omtrek activatie = activatie buiten omtrek positief
+positieve footprint activatie = overal waar geluid is, is positieve activatie
+sterk = > 1
+zwak = < 1
+
+
+
+On, 2f, spectrogram
+    c842b5e4_nohash_1.wav, on, 0.994, <-- high acc
+        Praat
+            geslacht: vrouw
+            Formanten 'o':
+                850, 1400
+            klinkt als: an
+                a (f1=850, f2=1300) (volgens plaatje)
+                n zie plaatje
+        Filters
+            1. Activatie rond 1000hz en 1400hz. Stipjes. tot 0.6s (begin)
+            2. Grote activatie 1400-1200hz, naar beneden. vanaf 0.5s (eind)
+
+
+
+    9a356ab9_nohash_0.wav, on, 0.921, <-- high acc
+        Praat
+            geslacht: vrouw
+            formanten 'o':
+                800, 1100
+            klinkt als: an
+                a (f1=850, f2=1300) (volgens plaatje)
+                n zie plaatje
+        Filters
+            1. Activatie 800-1300hz. Tot 0.6s (begin)
+            2. Activatie blob 800-1300hz vanaf 0.6s (tweede deel). blob 200-500hz 0.8-1.0s
+
+
+    b665723d_nohash_0.wav, on,
+
+
+    ab5b211a_nohash_0.wav, on, 0.940, <-- high acc
+        praat
+            geslacht: man
+            formanten 'o':
+                    750, 1300
+            klinkt als: an
+        Filters
+            1. blob 200-400hz. blob 800-1000hz. blob 1200-1500hz. Begin, tot 0.6s.
+            2. grootste blob 50-400hz, na 0.8s (eind). 0.6-0.8s lichte activatie naar beneden van 1500hz naar 500hz.
+
+
+On, 4f, spectrogram
+    c842b5e4_nohash_1.wav, on, 0.994, <-- high acc
+        Praat
+            geslacht: vrouw
+            Formanten 'o':
+                850, 1400
+            klinkt als: an
+                a (f1=850, f2=1300) (volgens plaatje)
+                n zie plaatje
+        Filters
+            1. Puntjes 1000-1400hz tot 0.6s (begin).
+            2. Negatieve omtrek activatie (zwak)
+            3. Negatieve omtrek activatie (sterk)
+            4. Leeg
+
+    9a356ab9_nohash_0.wav, on, 0.961, <-- high acc
+        Praat
+            geslacht: vrouw
+            formanten 'o':
+                800, 1100
+            klinkt als: an
+                a (f1=850, f2=1300) (volgens plaatje)
+                n zie plaatje
+        Filters
+            1. puntjes 1000-1400hz tot 0.6s (begin).
+            2. negatieve omtrek activatie (zwak)
+            3. negatieve omtrek activatie (sterk)
+            4. Leeg
+
+    b665723d_nohash_0.wav, on, 0.955, <-- high acc
+        Praat
+            geslacht: vrouw
+            formanten 'o':
+                800, 1100
+            klinkt als: an
+                a (f1=850, f2=1300) (volgens plaatje)
+                n zie plaatje
+        Filters
+            1. puntjes 900-1200hz tot 0.6s (begin)
+            2. negatieve omtrek activatie (zwak)
+            3. negatieve omtrek activatie (sterk)
+            4. Leeg
+
+
+
+On, 8f, spectrogram
+
+    c842b5e4_nohash_1.wav, on, 0.927, <-- high acc
+        Praat
+            geslacht: vrouw
+            Formanten 'o':
+                850, 1400
+            klinkt als: an
+                a (f1=850, f2=1300) (volgens plaatje)
+                n zie plaatje
+        Filters
+            1. leeg
+            2. zwakke negatieve omtrek activatie
+            3. stipjes 1000-1400hz tot 0.6s (begin)
+            4. stipjes 700-1100hz tot 0.3s (onset)
+            5. positieve footprint activatie (sterk) + lichte stipjes erna 800-1200hz
+            6. positieve footprint activatie (sterk) + lichte stipjes voor & na rond 800 & 1200hz
+            7. negatieve omtrek activatie (zwak)
+            8. stipje 2000hz 0.8s (eind)
+
+    9a356ab9_nohash_0.wav, on, 0.978, <-- high acc
+        Praat
+            geslacht: vrouw
+            formanten 'o':
+                800, 1100
+            klinkt als: an
+                a (f1=850, f2=1300) (volgens plaatje)
+                n zie plaatje
+        Filters
+            1. Leeg
+            2. negatieve omtrek activatie
+            3. blob 400hz, blob 1000-1200hz tot 0.7s (begin). opwaartse blob 1600-2000hz 0.8s (einde)
+            4. puntjes 1000hz, 800hz, 400-200hz tot 0.5s (begin). puntjes 1800-200hz 0.85s (einde)
+            5. negatieve footprint activatie (zwak)
+            6. negatieve footprint activatie (zwak)
+            7. negatieve omtrek activatie (zwak)
+            8. Leeg
+
+    b665723d_nohash_0.wav, on, 0.917, <-- high acc
+        Praat
+            geslacht: vrouw
+            formanten 'o':
+                800, 1100
+            klinkt als: an
+                a (f1=850, f2=1300) (volgens plaatje)
+                n zie plaatje
+        Filters
+            1. Leeg
+            2. negatieve omtrek activatie (zwak)
+            3. blob 800-1100hz tot 0.6s (geheel)
+            4. blob 800hz 0.4s (begin)
+            5. positieve footprint activatie (sterk)
+            6. positieve footprint activatie (sterk) + puntjes 1000hz
+            7. negatieve omtrek activatie (zwak)
+            8. puntje 3500hz 0.1s (ruis)
+
+
+
+On, 64f, spectrogram
+    c842b5e4_nohash_1.wav, on,
+
+    9a356ab9_nohash_0.wav, on,
+
+    b665723d_nohash_0.wav, on,
+
+    b21f0fa4_nohash_0.wav, on, 0.921 <-- High accuracy
+        Praat
+            geslacht: vrouw
+            formanten 'o':
+                800, 1350
+        Filters
+            7. footprint activatie met puntjes 1000,700,100hz @ 0.1-0.2s. blob 900hz 0.4-0.6s (eind)
+            12. negatieve omtrek activatie (zwak)
+            13. blob 600-800hz 1.5s + opwaartse punten. blob 1200-1400hs 0.3-0.4s
+            28. opwaartse punten 700hz 0.1s naar 1800hz 0.6s
+            31. blob 1200-1800hz opwaarts 0.3-0.5s.
+            34. blob 900hz tot 0.5s. blob 1400-1800hz 0.5s
+            46. blob 1200-1800hz opwaarts 0.3-0.5s
+            59. blob 1300hz 0.3-0.5s + opwaartese puntjes. blob 800hz 0.3-0.6s. line 200hz 0.3-0.8s
+
+    30a09789_nohash_0.wav, on, 0.927 <-- High accuracy
+        Praat
+            geslacht: man
+            formanten 'o':
+                900, 1350
+            klinkt als: an
+        filters
+            6. lines 0-0.3s 150hz, 300hz, 500hz, 800hz, 1150hz.
+            7. footprint activatie
+            12. negatieve omtrek activatie (zwak)
+            13. opwaartse puntjes 200-1400hz 0.2s
+            17. blob 1200-1400hz tot 0.35s
+            39. blob 1200hz 0.2-0.35s
+            47. blob 1000-2000hz opwaarts 0.35-0.5s
+            58. blob 800 hz tot 0.15s. blob 1000-1200hz tot 0.15s
+
+
+    8e05039f_nohash_1.wav, on, 0.947 <-- High accuracy
+        Praat
+            geslacht: vrouw
+            formanten 'o':
+                650, 1100
+            klinkt als: on
+        Filters
+            2. puntjes opwaarts 600-100hz 0.15-0.3s. blob 700hz 0.5s.
+            7. footprint activatie (sterk)
+            8. blob 500-1100hz 0.15-0.25s
+            12. negatieve omtrek activatie (zwak)
+            34. blob 700hz 0.35-0.5s. blob 900hz 0.3-0.4s. opwaartse activatie
+            35.lijn activatie 1000hz 0.3-0.45s. 700hz 0.35-0.5s
+            44. lijn activatie 1000hz 0.4-0.4s. lijn activatie 700hz 0.25-0.5s
+            54.lijn activatie 600hz 0.15-0.4s. lijn activatie 800-900hz 0.2-0.4s.

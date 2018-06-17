@@ -1,0 +1,221 @@
+down: ˈdaʊn
+d
+a: f1 = 810hz, f2 = 1300hz
+ʊ
+n
+
+
+--------------------------------------------
+2 filter model
+--------------------------------------------
+00b01445_nohash_1.wav, down, 0.945 <-- High accuracy
+    Praat
+        Geslacht: male
+        Formanten 'a':
+            1000-1200-1000 (op en neer), 1750-1400 (aflopend)
+        Klinkt als: dawn (langgerekte a)
+    Filters
+        1. Dot activation in 0.3-0.4s of 400-700hz (oplopend), which is 
+         the transition between silence and 'd'.
+        2. Downwards blob 1600-1200hz (most act) 0.6-0.8s, which kinda 
+         corresponds to 'ʊ', maybe a tiny bit transition between 'a' and 'ʊ'.
+    Opmerkingen
+        Filters lijken niet te activeren op de 'a' qua tijdsverloop?
+
+01bcfc0c_nohash_0.wav, down, 1.000 <-- High accuracy
+    Praat
+        Geslacht: female (pretty low?)
+        Formanten 'a': 
+            750-950 (oplopend), 1900-1250
+        Klinkt als: dawn, very noisy/schor
+        Very unclear what parts belong to the second filter. The red dots
+         are relatively far from eachother until +-0.4s (end of 'a'). 
+    Filters
+        1. Line (small act) 500-1000hz (most act in 500-600hz) 0.15-0.2s. Noise.
+         Line (big act) 500-1000hz (most act in 800-1000hz) 0.22-0.3s. Transition silence to 'd'.
+        2. Small dot 0.16s 400hz. 
+         Line 0.35-0.4s 400-800hz. 'a'
+         Blob 2100-400hz (downwards) 0.35-0.8s. 'aʊn' plus a bit silence afterwards.
+
+
+03cf93b1_nohash_1.wav, down, 0.997 <-- High accuracy
+    Praat
+        Geslacht: female
+        Formanten 'a': (0.5-0.65s)
+            500-800hz (fast increase 0.5-0.53s, then almost flat), 2000-1700hz (aflopend)
+        Klinkt als: dawn with noise
+    Filters
+        1. Line 0.4s 400-800hz. Noise.
+         Line 0.45s 300-600hz. Noise.
+        2. Blob (low act) 0.6-0.97s 2000-200hz (aflopend). Einde 'a' t/m einde audio.
+         Blob (high act) 0.8-1s 200-0hz (een grote blob). 'n'
+
+
+--------------------------------------------
+4 filter model
+--------------------------------------------
+
+01bcfc0c_nohash_0.wav, down, 1.000 <-- High accuracy
+    Praat
+        Geslacht: female (pretty low?)
+        Formanten 'a': 
+            750-950 (oplopend), 1900-1250
+        Klinkt als: dawn, very noisy/schor
+        Very unclear what parts belong to the second filter. The red dots
+         are relatively far from eachother until +-0.4s (end of 'a'). 
+    Filters
+        1. Line 0.15-0.22s 500-1000hz. Noise.
+         Line 0.26-0.35s 400-800hz. d - a
+        2. Negatieve omtrek activatie
+        3. Footprint activatie
+        4. Leeg
+
+
+035de8fe_nohash_0.wav, down, 1.000 <-- High accuracy
+    Praat
+        Geslacht: male
+        Formanten 'a': 
+            500-800hz (oplopend), 1900-1650hz (aflopend)
+        Klinkt als: dawn (redelijk lange a)
+    Filters
+        1. Dot 0.2s 600hz. Noise.
+         Small line 0.35s 400-700hz. 'a'
+        2. Negatieve omtrek activatie
+        3. Footprint activatie
+        4. Leeg
+
+
+069ab0d5_nohash_1.wav, down, 0.919 <-- High accuracy
+    Praat
+        Geslacht: male
+        Formanten 'a': 
+            750-1000hz (oplopend), 1800-1650hz (aflopend)
+        Klinkt als: dawn
+    Filters
+        1. Dot 0.2s 600hz. Noise. 
+         Small line 0.3s 400-700hz. 'd'
+        2. Negatieve omtrek activatie
+        3. Footprint activatie
+        4. Leeg
+
+
+--------------------------------------------
+8 filter model
+--------------------------------------------
+01bcfc0c_nohash_0.wav, down, 0.999 <-- High accuracy
+    Praat
+        Geslacht: female (pretty low?)
+        Formanten 'a': 
+            750-950 (oplopend), 1900-1250
+        Klinkt als: dawn, very noisy/schor
+        Very unclear what parts belong to the second filter. The red dots
+         are relatively far from eachother until +-0.4s (end of 'a'). 
+    Filters
+        1. Leeg
+        2. Negatieve omtrek activatie
+        3. Line 0.2-0.3s 400-900hz. sil-'d'
+        4. Line 0.15s 300-600hz + vage lijn 0.15s 1900-3200hz. Noise.
+        5. Footprint activatie (sterk) + tiny act 0.8s 200-400hz
+        6. Footprint activatie (zwak) + tiny act 0.25s 300-400hz
+        7. Negatieve omtrek activatie
+        8. Tiny dot 0.9s 100hz. Tiny dot 0.2s 3400hz.
+
+
+01d22d03_nohash_0.wav, down, 0.954 <-- High accuracy
+    Praat
+        Geslacht: female
+        Formanten 'a': 
+            650-800 (oplopend), 1750-1350 (relatief vlak en dan sterk dalend)
+        Klinkt als: dawn (very long a)
+    Filters
+        1. Leeg
+        2. Negatieve omtrek activatie
+        3. Line 0.2-0.35s 400-1000hz + dot 0.4s 1300hz + dot 0.45s 1100hz 
+            + vage dot 0.25s 1850hz
+        4. Footprint activatie (zwak) + dots 0.1s 350-650hz
+            + blob 0.1-0.15s 1700hz + dots 0.4-0.5s 1500-1100hz (aflopend)
+        5. Footprint activatie (sterk) + blob 0.6-0.65s 600-800hz
+            + dot 0.58s 1000hz
+        6. Footprint activatie (zwak) + blob (sterk) 0.55-0.6s 1150-1250hz
+            + blob (zwak) 0.55s 1400hz + blob (zwak) 0.65s 800hz
+        7. Negatieve omtrek activatie
+        8. Tiny dot 0.65s 650hz + tiny dot 0.15s 4400hz + tiny dot (sterk)
+            0.15s 4300hz + tiny dot (zwak) 0.15s 6600hz
+
+
+035de8fe_nohash_0.wav, down, 0.972 <-- High accuracy
+    Praat
+        Geslacht: male
+        Formanten 'a': 
+            500-800hz (oplopend), 1900-1650hz (aflopend)
+        Klinkt als: dawn (redelijk lange a)
+    Filters
+        1. Leeg
+        2. Negatieve omtrek activatie
+        3. Blob (sterk) 0.3-0.4s 400-700hz + blob (zwak) 0.35s 2000hz
+        4. Dot (redelijk sterk) 0.2s 400hz + blob 0.25s 1800-1900hz 
+            + blob 0.35s 2000hz + blobs (zwak) 0.45s 1100-1400 + blobs 0.5s
+            1300-1500hz
+        5. Footprint activatie (zwak) + dot 0.2s 550hz + dot 0.25s 600hz 
+            + dot 0.3s 600hz
+        6. Footprint activatie (zwak) + blob (sterk) 0.45-0.5s 2000-2100hz
+            + dot 0.3s 400hz + blobs (zwak) 0.25s 600hz en 1600-2400hz
+            + blobs (zwak) 0.65s 1200-1600hz + blobs (zwak) 0.75s 600hz 
+            + blobs (zwak) 0.85s 200-400hz
+        7. Negatieve omtrek activatie
+        8. Dot 0.3s 5500hz + dot 0.3s 5550hz + tiny dot (sterk) 0.3s 4700hz
+
+
+
+--------------------------------------------
+64 filter model
+--------------------------------------------
+01bcfc0c_nohash_0.wav, down, 1.000 <-- High accuracy
+    Praat
+        Geslacht: female (pretty low?)
+        Formanten 'a': 
+            750-950 (oplopend), 1900-1250
+        Klinkt als: dawn, very noisy/schor
+        Very unclear what parts belong to the second filter. The red dots
+         are relatively far from eachother until +-0.4s (end of 'a').
+    Filters
+        17. Blob (meeste) 0.2-0.4s 500-1000 Hz. sil-d-a
+        21. Blob 0.15-0.2s 400-600 Hz. Noise. 
+            Dot 0.2s noise.
+            Dot 0.3s 900 Hz. d-a
+        27. Blob 0.2-0.35s 400-1000 Hz. sil-d-a
+            Blob 0.4s 800-900 Hz. a-w
+        38. Lines 0.2-0.3s 500-900 Hz. sil-d-a
+            Line 0.3-0.35s 500-900 Hz. a
+
+
+035de8fe_nohash_0.wav, down, 0.986 <-- High accuracy
+    Praat
+        Geslacht: male
+        Formanten 'a': 
+            500-800hz (oplopend), 1900-1650hz (aflopend)
+        Klinkt als: dawn (redelijk lange a)
+    Filters
+        17. Blob (meeste) 0.3-0.4s 400-700 Hz. sil-d-a
+            Blob (zwak) 0.5-0.7s 300-500 Hz. a-w
+        21. Dot 0.25s 400 Hz. Noise.
+            Tiny dot 0.3s 600 Hz. sil-d
+            Tiny dots 0.4s 500-700 Hz. a
+            Blob (zwak) 0.25s Noise.
+        27. Blob 0.3-0.35s 400-700 Hz. sil-d-a 
+            Line 0.4s 500-600 Hz. a 
+        38. Line 0.2-0.3s 400-500 Hz. Noise.
+            Dots 0.4s 500-600 Hz. a
+
+0137b3f4_nohash_0.wav, down, 0.968 <-- High accuracy
+    Praat
+        Geslacht: male
+        Formanten 'a': 
+            500-600hz (oplopend), 1500-1200hz (aflopend)
+        Klinkt als: dawn
+    Filters
+        17. Blob (meeste) 0.3-0.5s 600-800 Hz. sil-d-a
+        21. Dots 0.25-0.3s Noise.
+        27. Blob 0.3-0.4s 500-800 Hz. sil-d-a 
+        38. Dot 0.3s 500-600 Hz. Noise
+            Dot 0.4s 500-600 Hz. a

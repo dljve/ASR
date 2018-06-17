@@ -1,0 +1,54 @@
+More high accuracies than left, but fewer than yes
+
+00b01445_nohash_0.wav, right, 0.939 <-- High accuracy
+0132a06d_nohash_3.wav, right, 0.964 <-- High accuracy
+0137b3f4_nohash_1.wav, right, 0.998 <-- High accuracy
+0137b3f4_nohash_2.wav, right, 0.996 <-- High accuracy
+0137b3f4_nohash_3.wav, right, 0.970 <-- High accuracy
+0137b3f4_nohash_4.wav, right, 0.945 <-- High accuracy
+035de8fe_nohash_0.wav, right, 0.994 <-- High accuracy
+05739450_nohash_0.wav, right, 0.925 <-- High accuracy
+
+We'll test:
+
+00b01445_nohash_0.wav, right, 0.939 <-- High accuracy
+0132a06d_nohash_3.wav, right, 0.964 <-- High accuracy
+0137b3f4_nohash_1.wav, right, 0.998 <-- High accuracy
+
+right
+/raɪt/
+a ~ 800 Hz
+ɪ ~ 400 Hz
+
+
+
+--------------------------------------------
+2 filter model
+--------------------------------------------
+00b01445_nohash_0 (F1 is higher than normal in this example)	male
+1:	F1 and mostly F2! High activation at 500 ms 1200 Hz, 550 ms 1300 Hz, 600-650 ms 1200-1300 Hz
+	First speck is /r/, 2nd and 3th are /r/-/a/
+	1. Consistent with yes and left: activates upwards formant pattern
+2:	F2 and slightly F1. High activation 650-750 ms in 1000-1300 Hz.
+	In Spraak this corresponds to /aɪ/
+	1. Consistent again with being a vowel detector
+
+0132a06d_nohash_3	male
+1:	F1 and slightly F2. Activated upwards line 320-380ms and highly activated upwards line 400-480ms
+	First line is noise/silence, second line is r-a again
+	1. Activates upward formant pattern, capturing r-a transition
+2:	F1 and slightly F2. Blob in 500-600 ms 600-800 Hz corresponds to /aɪ/ again
+	Lower activation between 600-700 ms corresponds to ɪ, and is more active in F2.
+	1. Again, functions as a vowel detector mainly for 600-800 Hz 
+	
+0137b3f4_nohash_1	male
+1:	F1 and F2 slightly. Again two lines 350 ms = /r/ and 400 ms = /r/-/a/
+	1. Upwards formant pattern again
+2:	F1 and F2 slightly. High activation near 550-650 ms. Corresponds to  /aɪ/
+	1. Again takes the role as vowel detector
+	2. It activates on F1 with high energy going downwards. 
+	   Maybe this pattern is also used in order to detect vowels
+
+--------------------------------------------
+4 filter model
+--------------------------------------------

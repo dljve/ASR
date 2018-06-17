@@ -1,0 +1,185 @@
+
+
+Go:
+
+    Phonetic transcription
+        goʊ  / gəʊ
+
+        ɑ
+            f1 = 740
+            f2 = 1180
+
+        ə
+            ?
+
+        ʊ
+            f1 = 380
+            f2 = 940
+
+        o
+            f1 = 500
+            f2 = 750
+
+
+go, 2f, spectrogram
+
+    7846fd85_nohash_1.wav, go, 0.949, <-- high acc
+        Praat
+            geslacht: vrouw
+            formanten 'o':
+                600, 1000
+            klinkt als: geuow
+        Filters
+            1. blob 700hz 0.55s. blob 700hz 0.65s.
+            2. downward 800hz-600hz 0.8-1.0s
+
+
+    ac4b3fc3_nohash_1.wav, go, 0.999, <-- high acc
+        Praat
+            geslacht: vrouw
+            formanten 'o':
+                600, 1300-1100 (aflopened)
+            klinkt als: geuow
+        Filters
+            1. blob 600hz 0.45s. blob 500hz 0.6s
+            2. neerwaartse blob 900-500hz 0.65-0.95s
+
+    813b82a6_nohash_0.wav, go, 0.715
+
+    3c257192_nohash_0.wav, go, 0.907, <-- high acc
+        Praat
+            geslacht: vrouw
+            formanten 'o':
+                400, 1100
+            klinkt als: go
+        Filters
+            1. puntjes 600hz 0.1s, 500hz 0.2s
+            2. neerwaartse blob 800-400hz 0.3-0.5s
+
+
+
+
+go, 4f, spectrogram
+    7846fd85_nohash_1.wav, go, 0.650
+
+    ac4b3fc3_nohash_1.wav, go, 0.936, <-- high acc
+        Praat
+            geslacht: vrouw
+            formanten 'o':
+                600, 1300-1000 (aflopened)
+            klinkt als: geuow
+        Filters
+            1. blob 600hz 0.5s, blob 500hz 0.6s
+            2. negatieve omtrek activatie (zwak)
+            3. footprint activatie (sterk)
+            4. Leeg
+
+    813b82a6_nohash_0.wav, go, 0.901, <-- high acc
+        Praat
+            geslacht: vrouw
+            formanten 'o':
+                600, 1300-1100 (aflopened)
+            klinkt als: geuow
+        Filters
+            1. blob 1600-1800hz 0.1s. blob tot 0.1s 400-700hz (ruis)
+            2. negatieve omtrek activatie (zwak)
+            3. footprint activatie (zwak)
+            4. Leeg
+
+    40b60ae9_nohash_0.wav, go, 0.925, <-- high acc
+        Praat
+            geslacht: man
+            formanten 'o':
+                500, 1200-750 (aflopened)
+            klinkt als: gow
+        Filters
+            1. blob 600-800hz 0.4-0.5s
+            2. negatieve omtrek activatie (zwak)
+            3. footprint activatie (sterk)
+            4. Leeg
+
+
+go, 8f, spectrogram
+    7846fd85_nohash_1.wav, go, 0.912, <-- high acc
+        Praat
+            geslacht: vrouw
+            formanten 'o':
+                600, 1000
+            klinkt als: geuow
+        Filters
+            1. Leeg
+            2. Negatieve omtrek activatie (zwak)
+            3. blob 400-700hz 0.6-0.7s
+            4. blobje 500hz 0.5s
+            5. footprint activatie (sterk)
+            6. blob 500hz 0.6s. blob 950hz 800hz
+            7. negatieve omtrek activatie (zwak)
+            8. Leeg
+
+
+    ac4b3fc3_nohash_1.wav, go, 0.997, <-- high acc
+        Praat
+            geslacht: vrouw
+            formanten 'o':
+                600, 1300-1000 (aflopened)
+            klinkt als: geuow
+        Filters
+            1. Leeg
+            2. Negatieve omtrek activatie
+            3. blob 500-600hz 0.6s
+            4. blob 500hz 0.5s
+            5. footprint activation (sterk)
+            6. line 900-700hz 0.7-1.0s
+            7. negatieve omtrek activatie (zwak)
+            8. Leeg
+
+    813b82a6_nohash_0.wav, go, 1.000 <-- High accuracy
+
+
+
+    742d6431_nohash_4.wav, go, 0.947, <-- high acc
+        Praat
+            geslacht: man
+            formanten 'o':
+                500, 850
+            klinkt als: go
+        Filters
+            1. Leeg
+            2. Negatieve omtrek activatie (zwak)
+            3. puntjes 400hz, 600hz, 800hz (opwaards), tot 0.2s
+            4. puntjes 500hz, 900hz, 1400-900hz tot 0.25s
+            5. footprint activatie
+            6. footprint activatie + neerwaartse blob 1400-100hz 0.2-0.3s
+            7. negatieve omtrek activatie (zwak)
+            8. Leeg. (blob 2800hz, 0.9s -> ruis)
+
+
+
+Go, 64f, spectrogram
+    7846fd85_nohash_1.wav, go, 0.988 <-- High accuracy
+
+    ac4b3fc3_nohash_1.wav, go, 0.997 <-- High accuracy
+
+    813b82a6_nohash_0.wav, go, 1.000 <-- High accuracy
+
+
+    62641b88_nohash_0.wav, go, 0.995 <-- High accuracy
+        Praat
+            geslacht: man
+            formanten 'o':
+                550, 1050
+            klinkt als: go
+
+    0132a06d_nohash_4.wav, go, 0.976 <-- High accuracy
+        Praat
+            geslacht: man
+            formanten 'o':
+                500, 1050
+            klinkt als: gow
+
+    30a09789_nohash_0.wav, go, 0.953 <-- High accuracy
+        Praat
+            geslacht: man
+            formanten 'o':
+                450, 1050
+            klinkt als: gow

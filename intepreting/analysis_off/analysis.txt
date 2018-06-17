@@ -1,0 +1,185 @@
+Off:
+
+    Phonetic transcription
+        ɔf / ɒf
+
+        ɒ
+            f1 = 560
+            f2 = 920
+
+        ɔ
+            f1 = 500
+            f2 = 850
+
+        f
+            zie plaatje
+
+
+opwaarts / neerwaarts = geleidelijk naar boven / beneden
+verticaal = recht boven elkaar
+
+Off, 2f, spectrogram
+    6736bc64_nohash_0.wav, off,
+
+
+
+    39dce8cc_nohash_1.wav, off, 0.998, <-- high acc
+        Praat
+            geslacht: vrouw
+            formanten 'o':
+                850, 1300
+            klinkt als: aff (zoals on)
+        Filters
+            1. blob 1300-900hz, 0.35s. dot 800hz 0.65-0.75s
+            2. blob 900hz 0.35s. blob 900-1400hz 0.55-0.7s
+
+
+    c120e80e_nohash_5.wav, off,
+
+
+    3eb8764c_nohash_0.wav, off, 0.954, <-- high acc
+        Praat
+            geslacht: vrouw
+            formanten 'o':
+                800, 1150
+            klinkt als: aff (zoals on)
+        Filters
+            1. dots 800-1200hz 0.15-0.3s
+            2. blob 700-1000hz 0.2s. blob 800-1300hz 0.35-0.5s
+
+    5165cf0a_nohash_0.wav, off, 0.999, <-- high acc
+        Praat
+            geslacht: vrouw
+            formanten 'o':
+                850, 1300
+            klinkt als: aff (zoals on)
+        Filters
+            1. vertical blob 800-1400hz, 0.35s
+            2. blob 700-900hz 0.35s. blob 700-1200hz 0.45-0.7s
+
+
+Off, 4f, spectrogram
+
+    6736bc64_nohash_0.wav, off, 0.948, <-- high acc
+        Praat
+            geslacht: man
+            formanten 'o':
+                600, 1000
+            klinkt als: aff (zoals on)
+        Filters
+            1. dots 1000-1200hz, 800hz, 300hz @ 0.3-0.4s
+            2. negatieve omtrek activatie (zwak)
+            3. negatieve omtrek activatie + upwards line 800hz 0.7s
+            4. leeg
+
+
+    39dce8cc_nohash_1.wav, off, 0.981, <-- high acc
+        Praat
+            geslacht: vrouw
+            formanten 'o':
+                850, 1300
+            klinkt als: aff (zoals on)
+        Filters
+            1. vertical blobs 1000hz, 1200hz, 1400hz, 0.3-045s
+            2. negatieve omtrek activatie (zwak)
+            3. footprint activatie (sterk) + dots 800hz, 1200hz, 0.7s
+            4. Leeg
+
+    c120e80e_nohash_5.wav, off, 0.931, <-- high acc
+        Praat
+            geslacht: man
+            formanten:
+                600, 1000
+            klinkt als: o
+        Filters
+            1. blob 1200hz, 800hz, 0.1-0.25s
+            2. negatieve omtrek activatie (zwak)
+            3. footprint activatie (sterk) + blob 400hz, 900hz, 0.5-0.6s
+            4. Leeg
+
+
+Off, 8f, spectrogram
+    6736bc64_nohash_0.wav, off, 0.977, <-- high acc
+        Praat
+            geslacht: man
+            formanten 'o':
+                600, 1000
+            klinkt als: aff (zoals on)
+        Filters
+            1. Leeg
+            2. negatieve omtrek activatie
+            3. blob 100-400hz 0.35-0.45s. dots 600-1000hz 0.4s
+            4. vertical blobs 500-700hz, 800-1100hz, 0.3-0.4s
+            5. negatieve omtrek activatie (sterk) + dots 600-900hz 0.65-0.75s
+            6. negatieve omtrek activatie (sterk)
+            7. negatieve omtrek activatie (zwak)
+            8. Leeg
+
+    39dce8cc_nohash_1.wav, off, 0.992, <-- high acc
+        Praat
+            geslacht: vrouw
+            formanten 'o':
+                850, 1300
+            klinkt als: aff (zoals on)
+        Filters
+            1. Leeg
+            2. Negatieve omtrek activatie (zwak)
+            3. opwaartse dots 700-100hz 0.35-0.5s
+            4. blob 800-1000hz 0.3-0.4s
+            5. negatieve omtrek activatie (sterk)+ dots 1200hz, 700hz @ 0.7s
+            6. negatieve omtrek activatie (sterk) + sterke dot 800hz, 0.45s
+            7. negatieve omtrek activatie (zwak)
+            8. Leeg (ruis)
+
+
+    c120e80e_nohash_5.wav, off,
+
+
+    4abb2400_nohash_0.wav, off, 0.972, <-- high acc
+        Praat
+            geslacht: vrouw
+            formanten 'o':
+                850, 1200
+            klinkt als: aff (zoals on)
+        Filters
+            1. Leeg
+            2. negatieve omtrek activatie (zwak)
+            3. opwaartse dots 600hz-1100hz 0.35-0.55s. + dot 1500hz 0.55s
+            4. vertical dots 600-1300hz 0.35-0.45s
+            5. negatieve omtrek activatie (sterk) + verticale dots 600-1200hz 0.75-0.85s
+            6. negatieve omtrek activatie (sterk) + dots 1400hz 0.6-0.75s
+            7. negatieve omtrek activatie (zwak)
+            8. Leeg (ruis)
+
+
+
+
+Off, 64f, spectrogram
+
+    6736bc64_nohash_0.wav, off,
+
+    39dce8cc_nohash_1.wav, off,
+
+
+    c120e80e_nohash_4.wav, off, 0.924 <-- High accuracy
+        Praat
+            geslacht: man
+            formanten:
+                600, 1000
+            klinkt als: o
+
+
+
+    d9b8fab2_nohash_1.wav, off, 0.990 <-- High accuracy
+        Praat
+            geslacht: man
+            formanten:
+                700, 1100
+            klinkt als: o
+
+    c9b653a0_nohash_0.wav, off, 0.993 <-- High accuracy
+        Praat
+            geslacht: man
+            formanten:
+                600, 900
+            klinkt als: off

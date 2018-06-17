@@ -1,0 +1,61 @@
+There seem to be more high predictions for yes than for left
+
+We'll test:
+
+00176480_nohash_0.wav, left, 0.959 <-- High accuracy
+0137b3f4_nohash_3.wav, left, 0.903 <-- High accuracy
+035de8fe_nohash_0.wav, left, 0.999 <-- High accuracy
+
+
+left 
+/lɛft/
+
+l: 
+F2 lightly upwards transition to ɛ
+F3 sightly downwards transition to ɛ
+F4 sightly more downwards transition to ɛ
+l is captured in F1, F4 and F5
+
+ɛ-f:
+F1-F4 very slightly downwards to f
+f activated in mostly F1, F4, F5
+unclear formant lines with low energy
+
+f-t:
+silence after f, silence-t afterwards
+t activated in all formants
+unclear formant lines with low energy
+
+--------------------------------------------
+2 filter model
+--------------------------------------------
+00176480_nohash_0	male
+1: F1 and F2 lightly. Highly activates from 400-500 which is noise.
+   Activation near 500 ms is the transition l-ɛ. 
+   Also activates a very small part in ɛ and in f.
+   1. Upward formant line activation again in F1.
+2: F1 + F2 lightly. High activation from 650-800 ms. Matches ɛ-f transition: last part of ɛ and first part of f
+   Unlike yes, the captured formant line is not horizontal. Captures ɛ but also clearly f this time
+   1. Captures vowels and vowel to consonant transition (atleast ɛ-f, or ɛ to a fricative)
+
+0137b3f4_nohash_3	male
+1: F1. Activation near 350 ms is noise.
+   High activation from 400-470 ms, corresponds to l-ɛ.
+   1. Upward formant line activation F1.
+2: F1. Activation blob in 600-800 ms. Matches ɛ-f transition
+   Highly activated part is between 600-650 ms at 700-800 Hz and matches ɛ.
+   1. Vowel detector (ɛ / 700-800 Hz) but also activates in the transition.
+   
+035de8fe_nohash_0 	male
+Weird that this gets 0.999
+Maybe an error, or l (or left recording) is always preceded by characteristic noise
+1:	F1. High activation between 200-300 ms is noise. Low activation between 400-500 ms is l-ɛ.
+	Filter by itself seems not robust to noise.
+	1. Still matches upward formant lines.
+2:	Activates only a pattern in the noise. Filter by itself seems not robust to noise.
+	1. Vowel not captured
+
+
+--------------------------------------------
+4 filter model
+--------------------------------------------

@@ -1,0 +1,232 @@
+// The Round Table
+digraph {
+	"64_0" [label="" image="../savedFilters/64_1.png" style="setlinewidth(0)"]
+	"64_1" [label="" image="../savedFilters/64_2.png" style="setlinewidth(0)"]
+	"64_2" [label="" image="../savedFilters/64_3.png" style="setlinewidth(0)"]
+	"64_3" [label="" image="../savedFilters/64_4.png" style="setlinewidth(0)"]
+	"64_4" [label="" image="../savedFilters/64_5.png" style="setlinewidth(0)"]
+	"64_5" [label="" image="../savedFilters/64_6.png" style="setlinewidth(0)"]
+	"64_6" [label="" image="../savedFilters/64_7.png" style="setlinewidth(0)"]
+	"64_7" [label="" image="../savedFilters/64_8.png" style="setlinewidth(0)"]
+	"64_8" [label="" image="../savedFilters/64_9.png" style="setlinewidth(0)"]
+	"64_9" [label="" image="../savedFilters/64_10.png" style="setlinewidth(0)"]
+	"64_10" [label="" image="../savedFilters/64_11.png" style="setlinewidth(0)"]
+	"64_11" [label="" image="../savedFilters/64_12.png" style="setlinewidth(0)"]
+	"64_12" [label="" image="../savedFilters/64_13.png" style="setlinewidth(0)"]
+	"64_13" [label="" image="../savedFilters/64_14.png" style="setlinewidth(0)"]
+	"64_14" [label="" image="../savedFilters/64_15.png" style="setlinewidth(0)"]
+	"64_15" [label="" image="../savedFilters/64_16.png" style="setlinewidth(0)"]
+	"64_16" [label="" image="../savedFilters/64_17.png" style="setlinewidth(0)"]
+	"64_17" [label="" image="../savedFilters/64_18.png" style="setlinewidth(0)"]
+	"64_18" [label="" image="../savedFilters/64_19.png" style="setlinewidth(0)"]
+	"64_19" [label="" image="../savedFilters/64_20.png" style="setlinewidth(0)"]
+	"64_20" [label="" image="../savedFilters/64_21.png" style="setlinewidth(0)"]
+	"64_21" [label="" image="../savedFilters/64_22.png" style="setlinewidth(0)"]
+	"64_22" [label="" image="../savedFilters/64_23.png" style="setlinewidth(0)"]
+	"64_23" [label="" image="../savedFilters/64_24.png" style="setlinewidth(0)"]
+	"64_24" [label="" image="../savedFilters/64_25.png" style="setlinewidth(0)"]
+	"64_25" [label="" image="../savedFilters/64_26.png" style="setlinewidth(0)"]
+	"64_26" [label="" image="../savedFilters/64_27.png" style="setlinewidth(0)"]
+	"64_27" [label="" image="../savedFilters/64_28.png" style="setlinewidth(0)"]
+	"64_28" [label="" image="../savedFilters/64_29.png" style="setlinewidth(0)"]
+	"64_29" [label="" image="../savedFilters/64_30.png" style="setlinewidth(0)"]
+	"64_30" [label="" image="../savedFilters/64_31.png" style="setlinewidth(0)"]
+	"64_31" [label="" image="../savedFilters/64_32.png" style="setlinewidth(0)"]
+	"64_32" [label="" image="../savedFilters/64_33.png" style="setlinewidth(0)"]
+	"64_33" [label="" image="../savedFilters/64_34.png" style="setlinewidth(0)"]
+	"64_34" [label="" image="../savedFilters/64_35.png" style="setlinewidth(0)"]
+	"64_35" [label="" image="../savedFilters/64_36.png" style="setlinewidth(0)"]
+	"64_36" [label="" image="../savedFilters/64_37.png" style="setlinewidth(0)"]
+	"64_37" [label="" image="../savedFilters/64_38.png" style="setlinewidth(0)"]
+	"64_38" [label="" image="../savedFilters/64_39.png" style="setlinewidth(0)"]
+	"64_39" [label="" image="../savedFilters/64_40.png" style="setlinewidth(0)"]
+	"64_40" [label="" image="../savedFilters/64_41.png" style="setlinewidth(0)"]
+	"64_41" [label="" image="../savedFilters/64_42.png" style="setlinewidth(0)"]
+	"64_42" [label="" image="../savedFilters/64_43.png" style="setlinewidth(0)"]
+	"64_43" [label="" image="../savedFilters/64_44.png" style="setlinewidth(0)"]
+	"64_44" [label="" image="../savedFilters/64_45.png" style="setlinewidth(0)"]
+	"64_45" [label="" image="../savedFilters/64_46.png" style="setlinewidth(0)"]
+	"64_46" [label="" image="../savedFilters/64_47.png" style="setlinewidth(0)"]
+	"64_47" [label="" image="../savedFilters/64_48.png" style="setlinewidth(0)"]
+	"64_48" [label="" image="../savedFilters/64_49.png" style="setlinewidth(0)"]
+	"64_49" [label="" image="../savedFilters/64_50.png" style="setlinewidth(0)"]
+	"64_50" [label="" image="../savedFilters/64_51.png" style="setlinewidth(0)"]
+	"64_51" [label="" image="../savedFilters/64_52.png" style="setlinewidth(0)"]
+	"64_52" [label="" image="../savedFilters/64_53.png" style="setlinewidth(0)"]
+	"64_53" [label="" image="../savedFilters/64_54.png" style="setlinewidth(0)"]
+	"64_54" [label="" image="../savedFilters/64_55.png" style="setlinewidth(0)"]
+	"64_55" [label="" image="../savedFilters/64_56.png" style="setlinewidth(0)"]
+	"64_56" [label="" image="../savedFilters/64_57.png" style="setlinewidth(0)"]
+	"64_57" [label="" image="../savedFilters/64_58.png" style="setlinewidth(0)"]
+	"64_58" [label="" image="../savedFilters/64_59.png" style="setlinewidth(0)"]
+	"64_59" [label="" image="../savedFilters/64_60.png" style="setlinewidth(0)"]
+	"64_60" [label="" image="../savedFilters/64_61.png" style="setlinewidth(0)"]
+	"64_61" [label="" image="../savedFilters/64_62.png" style="setlinewidth(0)"]
+	"64_62" [label="" image="../savedFilters/64_63.png" style="setlinewidth(0)"]
+	"64_63" [label="" image="../savedFilters/64_64.png" style="setlinewidth(0)"]
+	"32_0" [label="" image="../savedFilters/32_1.png" style="setlinewidth(0)"]
+	"32_1" [label="" image="../savedFilters/32_2.png" style="setlinewidth(0)"]
+	"32_2" [label="" image="../savedFilters/32_3.png" style="setlinewidth(0)"]
+	"32_3" [label="" image="../savedFilters/32_4.png" style="setlinewidth(0)"]
+	"32_4" [label="" image="../savedFilters/32_5.png" style="setlinewidth(0)"]
+	"32_5" [label="" image="../savedFilters/32_6.png" style="setlinewidth(0)"]
+	"32_6" [label="" image="../savedFilters/32_7.png" style="setlinewidth(0)"]
+	"32_7" [label="" image="../savedFilters/32_8.png" style="setlinewidth(0)"]
+	"32_8" [label="" image="../savedFilters/32_9.png" style="setlinewidth(0)"]
+	"32_9" [label="" image="../savedFilters/32_10.png" style="setlinewidth(0)"]
+	"32_10" [label="" image="../savedFilters/32_11.png" style="setlinewidth(0)"]
+	"32_11" [label="" image="../savedFilters/32_12.png" style="setlinewidth(0)"]
+	"32_12" [label="" image="../savedFilters/32_13.png" style="setlinewidth(0)"]
+	"32_13" [label="" image="../savedFilters/32_14.png" style="setlinewidth(0)"]
+	"32_14" [label="" image="../savedFilters/32_15.png" style="setlinewidth(0)"]
+	"32_15" [label="" image="../savedFilters/32_16.png" style="setlinewidth(0)"]
+	"32_16" [label="" image="../savedFilters/32_17.png" style="setlinewidth(0)"]
+	"32_17" [label="" image="../savedFilters/32_18.png" style="setlinewidth(0)"]
+	"32_18" [label="" image="../savedFilters/32_19.png" style="setlinewidth(0)"]
+	"32_19" [label="" image="../savedFilters/32_20.png" style="setlinewidth(0)"]
+	"32_20" [label="" image="../savedFilters/32_21.png" style="setlinewidth(0)"]
+	"32_21" [label="" image="../savedFilters/32_22.png" style="setlinewidth(0)"]
+	"32_22" [label="" image="../savedFilters/32_23.png" style="setlinewidth(0)"]
+	"32_23" [label="" image="../savedFilters/32_24.png" style="setlinewidth(0)"]
+	"32_24" [label="" image="../savedFilters/32_25.png" style="setlinewidth(0)"]
+	"32_25" [label="" image="../savedFilters/32_26.png" style="setlinewidth(0)"]
+	"32_26" [label="" image="../savedFilters/32_27.png" style="setlinewidth(0)"]
+	"32_27" [label="" image="../savedFilters/32_28.png" style="setlinewidth(0)"]
+	"32_28" [label="" image="../savedFilters/32_29.png" style="setlinewidth(0)"]
+	"32_29" [label="" image="../savedFilters/32_30.png" style="setlinewidth(0)"]
+	"32_30" [label="" image="../savedFilters/32_31.png" style="setlinewidth(0)"]
+	"32_31" [label="" image="../savedFilters/32_32.png" style="setlinewidth(0)"]
+	"16_0" [label="" image="../savedFilters/16_1.png" style="setlinewidth(0)"]
+	"16_1" [label="" image="../savedFilters/16_2.png" style="setlinewidth(0)"]
+	"16_2" [label="" image="../savedFilters/16_3.png" style="setlinewidth(0)"]
+	"16_3" [label="" image="../savedFilters/16_4.png" style="setlinewidth(0)"]
+	"16_4" [label="" image="../savedFilters/16_5.png" style="setlinewidth(0)"]
+	"16_5" [label="" image="../savedFilters/16_6.png" style="setlinewidth(0)"]
+	"16_6" [label="" image="../savedFilters/16_7.png" style="setlinewidth(0)"]
+	"16_7" [label="" image="../savedFilters/16_8.png" style="setlinewidth(0)"]
+	"16_8" [label="" image="../savedFilters/16_9.png" style="setlinewidth(0)"]
+	"16_9" [label="" image="../savedFilters/16_10.png" style="setlinewidth(0)"]
+	"16_10" [label="" image="../savedFilters/16_11.png" style="setlinewidth(0)"]
+	"16_11" [label="" image="../savedFilters/16_12.png" style="setlinewidth(0)"]
+	"16_12" [label="" image="../savedFilters/16_13.png" style="setlinewidth(0)"]
+	"16_13" [label="" image="../savedFilters/16_14.png" style="setlinewidth(0)"]
+	"16_14" [label="" image="../savedFilters/16_15.png" style="setlinewidth(0)"]
+	"16_15" [label="" image="../savedFilters/16_16.png" style="setlinewidth(0)"]
+	"8_0" [label="" image="../savedFilters/8_1.png" style="setlinewidth(0)"]
+	"8_1" [label="" image="../savedFilters/8_2.png" style="setlinewidth(0)"]
+	"8_2" [label="" image="../savedFilters/8_3.png" style="setlinewidth(0)"]
+	"8_3" [label="" image="../savedFilters/8_4.png" style="setlinewidth(0)"]
+	"8_4" [label="" image="../savedFilters/8_5.png" style="setlinewidth(0)"]
+	"8_5" [label="" image="../savedFilters/8_6.png" style="setlinewidth(0)"]
+	"8_6" [label="" image="../savedFilters/8_7.png" style="setlinewidth(0)"]
+	"8_7" [label="" image="../savedFilters/8_8.png" style="setlinewidth(0)"]
+		"8_1" -> "16_1"
+		"8_6" -> "16_2"
+		"8_1" -> "16_3"
+		"8_1" -> "16_4"
+		"8_1" -> "16_5"
+		"8_1" -> "16_6"
+		"8_1" -> "16_7"
+		"8_1" -> "16_8"
+		"8_1" -> "16_9"
+		"8_1" -> "16_10"
+		"8_1" -> "16_11"
+		"8_6" -> "16_12"
+		"8_1" -> "16_13"
+		"8_1" -> "16_14"
+		"8_6" -> "16_15"
+		"16_13" -> "32_1"
+		"16_5" -> "32_2"
+		"16_5" -> "32_3"
+		"16_1" -> "32_4"
+		"16_1" -> "32_5"
+		"16_13" -> "32_6"
+		"16_15" -> "32_7"
+		"16_13" -> "32_8"
+		"16_5" -> "32_9"
+		"16_13" -> "32_10"
+		"16_13" -> "32_11"
+		"16_15" -> "32_12"
+		"16_1" -> "32_13"
+		"16_12" -> "32_14"
+		"16_2" -> "32_15"
+		"16_14" -> "32_16"
+		"16_1" -> "32_17"
+		"16_1" -> "32_18"
+		"16_1" -> "32_19"
+		"16_13" -> "32_20"
+		"16_1" -> "32_21"
+		"16_5" -> "32_22"
+		"16_13" -> "32_23"
+		"16_14" -> "32_24"
+		"16_1" -> "32_25"
+		"16_6" -> "32_26"
+		"16_14" -> "32_27"
+		"16_14" -> "32_28"
+		"16_13" -> "32_29"
+		"16_13" -> "32_30"
+		"16_6" -> "32_31"
+		"32_29" -> "64_1"
+		"32_29" -> "64_2"
+		"32_12" -> "64_3"
+		"32_11" -> "64_4"
+		"32_29" -> "64_5"
+		"32_30" -> "64_6"
+		"32_29" -> "64_7"
+		"32_29" -> "64_8"
+		"32_8" -> "64_9"
+		"32_11" -> "64_10"
+		"32_11" -> "64_11"
+		"32_11" -> "64_12"
+		"32_29" -> "64_13"
+		"32_31" -> "64_14"
+		"32_12" -> "64_15"
+		"32_19" -> "64_16"
+		"32_29" -> "64_17"
+		"32_11" -> "64_18"
+		"32_31" -> "64_19"
+		"32_11" -> "64_20"
+		"32_11" -> "64_21"
+		"32_14" -> "64_22"
+		"32_22" -> "64_23"
+		"32_14" -> "64_24"
+		"32_28" -> "64_25"
+		"32_11" -> "64_26"
+		"32_4" -> "64_27"
+		"32_11" -> "64_28"
+		"32_27" -> "64_29"
+		"32_8" -> "64_30"
+		"32_8" -> "64_31"
+		"32_11" -> "64_32"
+		"32_29" -> "64_33"
+		"32_12" -> "64_34"
+		"32_2" -> "64_35"
+		"32_19" -> "64_36"
+		"32_29" -> "64_37"
+		"32_11" -> "64_38"
+		"32_12" -> "64_39"
+		"32_11" -> "64_40"
+		"32_16" -> "64_41"
+		"32_26" -> "64_42"
+		"32_22" -> "64_43"
+		"32_10" -> "64_44"
+		"32_11" -> "64_45"
+		"32_11" -> "64_46"
+		"32_24" -> "64_47"
+		"32_29" -> "64_48"
+		"32_20" -> "64_49"
+		"32_12" -> "64_50"
+		"32_12" -> "64_51"
+		"32_16" -> "64_52"
+		"32_29" -> "64_53"
+		"32_26" -> "64_54"
+		"32_11" -> "64_55"
+		"32_11" -> "64_56"
+		"32_11" -> "64_57"
+		"32_12" -> "64_58"
+		"32_23" -> "64_59"
+		"32_23" -> "64_60"
+		"32_11" -> "64_61"
+		"32_5" -> "64_62"
+		"32_3" -> "64_63"
+}
